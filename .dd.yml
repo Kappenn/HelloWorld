@@ -1,0 +1,4 @@
+Build
+javac HelloWorld.java
+Test
+java HelloWorld
